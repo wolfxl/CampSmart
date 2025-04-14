@@ -1,0 +1,2 @@
+Can you please scan and read  the page provided, and extract the information in the format like of spreadsheet, with columns including Organization, Camp, Name, Start Date, End Date, Days, Start Time, End Time, Location, Age Range, Grade Range, Price, Description, email, contact information.
+Note, each row only contains one camp. Generate the spreadsheet for me. 
